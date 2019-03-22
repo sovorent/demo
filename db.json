@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+    pkConfig: 1,
+    name: 'Name1',
+    value: 'Value1',
+    remark: 'Remark1'
+},
+ {
+    pkConfig: 2,
+    name: 'Name2',
+    value: 'Value2',
+    remark: 'Remark2'
+},
+ {
+    pkConfig: 3,
+    name: 'Name3',
+    value: 'Value3',
+    remark: 'Remark3'
+},
+ {
+    pkConfig: 4,
+    name: 'Name4',
+    value: 'Value4',
+    remark: 'Remark4'
+},
+ 
+]
