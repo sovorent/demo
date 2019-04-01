@@ -2,28 +2,28 @@
 {
     "datas" : [
         {
-            "pkConfig": 1,
+            "id": 1,
             "name": "Name1",
             "value": "Value1",
-            "remark": "Remark1"
+            "isActive": "true"u
         },
         {
-            "pkConfig": 2,
+            "id": 2,
             "name": "Name2",
             "value": "Value2",
-            "remark": "Remark2"
+            "isActive": "false"
         },
         {
-            "pkConfig": 3,
+            "id": 3,
             "name": "Name3",
             "value": "Value3",
-            "remark": "Remark3"
+            "isActive: "true"
         },
         {
-            "pkConfig": 4,
+            "id": 4,
             "name": "Name4",
             "value": "Value4",
-            "remark": "Remark4"
+            "isActive": "false"
         }
     ]
 }
