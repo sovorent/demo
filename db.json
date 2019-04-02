@@ -2,25 +2,53 @@
 {
     "datas" : [
         {
-            "id": 1,
+            "pkWorkGroupId": 1,
             "name": "Name1",
-            "value": "Value1",
-            "isActive": "true"
+            "isActive": "true",
         }, {
-            "id": 2,
-            "name": "Name2",
-            "value": "Value2",
-            "isActive": "false"
+            "pkWorkGroupId": 2,
+            "name": "Name1",
+            "isActive": "true",
         }, {
-            "id": 3,
-            "name": "Name3",
-            "value": "Value3",
-            "isActive": "true"
+            "pkWorkGroupId": 3,
+            "name": "Name1",
+            "isActive": "true",
         }, {
-            "id": 4,
-            "name": "Name4",
-            "value": "Value4",
-            "isActive": "true"
-        }
+            "pkWorkGroupId": 4,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 5,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 6,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 7,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 8,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 9,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 10,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 11,
+            "name": "Name1",
+            "isActive": "true",
+        }, {
+            "pkWorkGroupId": 12,
+            "name": "Name1",
+            "isActive": "true",
+        },
     ]
 }
