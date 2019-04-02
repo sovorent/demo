@@ -5,50 +5,6 @@
             "pkWorkGroupId": 1,
             "name": "Name1",
             "isActive": "true",
-        }, {
-            "pkWorkGroupId": 2,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 3,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 4,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 5,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 6,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 7,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 8,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 9,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 10,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 11,
-            "name": "Name1",
-            "isActive": "true",
-        }, {
-            "pkWorkGroupId": 12,
-            "name": "Name1",
-            "isActive": "true",
-        },
+        }
     ]
 }
