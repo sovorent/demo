@@ -7,43 +7,43 @@
       },
       {  
          "pkWorkGroupId":2,
-         "name":"Name1",
-         "isActive":"true"
+         "name":"Name2",
+         "isActive":"false"
       },
       {  
          "pkWorkGroupId":3,
-         "name":"Name1",
+         "name":"Name3",
          "isActive":"true"
       },
       {  
          "pkWorkGroupId":4,
-         "name":"Name1",
-         "isActive":"true"
+         "name":"Name4",
+         "isActive":"false"
       },
       {  
          "pkWorkGroupId":5,
-         "name":"Name1",
+         "name":"Name5",
          "isActive":"true"
       },
       {  
          "pkWorkGroupId":6,
-         "name":"Name1",
+         "name":"Name6",
          "isActive":"true"
       },
       {  
          "pkWorkGroupId":7,
-         "name":"Name1",
-         "isActive":"true"
+         "name":"Name7",
+         "isActive":"false"
       },
       {  
          "pkWorkGroupId":8,
-         "name":"Name1",
+         "name":"Name8",
          "isActive":"true"
       },
       {  
          "pkWorkGroupId":9,
-         "name":"Name1",
-         "isActive":"true"
+         "name":"Name9",
+         "isActive":"false"
       },
       {  
          "pkWorkGroupId":10,
